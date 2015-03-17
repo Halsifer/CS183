@@ -102,7 +102,7 @@
         <div class="span12">
             <div class="page-header">
                 <h1>
-                    <a href="http://imgur.com/CACzpB9"><img src="http://i.imgur.com/CACzpB9.png" title="source: imgur.com" /></a>
+                    <a href="http://imgur.com/e2qrOYw"><img src="http://i.imgur.com/e2qrOYw.png" title="source: imgur.com" /></a>
                     <small>{{=response.subtitle or ''}}</small>
                 </h1>
             </div>
